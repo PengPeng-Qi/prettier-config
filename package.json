@@ -1,0 +1,15 @@
+{
+  "name": "@coder/prettier-config",
+  "version": "1.0.0",
+  "description": "a perfect prettier config npm package",
+  "main": "index.js",
+  "keywords": [
+    "prettier",
+    "config"
+  ],
+  "author": "qipeng",
+  "license": "ISC",
+  "peerDependencies": {
+    "prettier": "^3.3.3"
+  }
+}
