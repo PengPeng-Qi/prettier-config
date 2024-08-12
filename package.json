@@ -1,5 +1,5 @@
 {
-  "name": "@coder/prettier-config",
+  "name": "coder-prettier-config",
   "version": "1.0.0",
   "description": "a perfect prettier config npm package",
   "main": "index.js",
